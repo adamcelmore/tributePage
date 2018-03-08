@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-family: orbitron;
+}
+h3{
+    text-align: center;
+}
+ul{
+    list-style: square;
+}
+
+.title-box{
+    border: 5px solid black;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    background-color: white;
+    padding: 5px;
+    color: black;
+    width: 60%;
+    margin: auto;
+
+}
+.image{
+    border: 5px solid black;
+    margin: 10px auto 0px auto;
+    display: block;
+    border-top-left-radius: 60%;
+    border-bottom-right-radius: 60%;
+    width: 60%;
+}
+body{
+    /*Photo by Samuel Zeller from www.unsplash.com*/
+    background-image: url(https://media.giphy.com/media/BlcWQ9L2VfOFO/giphy.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.text-box{
+    border: 5px solid black;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    background-color: white;
+    width: 60%;
+    margin: 10px auto 10px auto;
+    padding: 30px;
+}
